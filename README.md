@@ -2,8 +2,6 @@ Programacao Orientada a Objetos I (POOI)
 
 Bem-vindo ao repositório da disciplina de Programação Orientada a Objetos. Aqui estão armazenados os códigos desenvolvidos durante o curso, abrangendo conceitos fundamentais da POO.
 
-Estrutura do Repositório
-
 
 Tecnologias Utilizadas
 
