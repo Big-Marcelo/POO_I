@@ -4,12 +4,6 @@ Bem-vindo ao repositório da disciplina de Programação Orientada a Objetos. Aq
 
 Estrutura do Repositório
 
-O repositório está organizado da seguinte forma:
-
-📂 POO
-📂 exercicios # Listas de exercícios resolvidos
-📂 projetos   # Projetos práticos desenvolvidos na disciplina
-README.md    # Documento atual
 
 Tecnologias Utilizadas
 
