@@ -1,0 +1,14 @@
+C:\Users\alunolab\Desktop\RO_05_Ex1\ConsoleEx1\obj\Debug\net8.0\ConsoleEx1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alunolab\Desktop\RO_05_Ex1\ConsoleEx1\obj\Debug\net8.0\ConsoleEx1.AssemblyInfoInputs.cache
+C:\Users\alunolab\Desktop\RO_05_Ex1\ConsoleEx1\obj\Debug\net8.0\ConsoleEx1.AssemblyInfo.cs
+C:\Users\alunolab\Desktop\RO_05_Ex1\ConsoleEx1\obj\Debug\net8.0\ConsoleEx1.csproj.CoreCompileInputs.cache
+C:\Users\alunolab\Desktop\RO_05_Ex1\ConsoleEx1\bin\Debug\net8.0\ConsoleEx1.exe
+C:\Users\alunolab\Desktop\RO_05_Ex1\ConsoleEx1\bin\Debug\net8.0\ConsoleEx1.deps.json
+C:\Users\alunolab\Desktop\RO_05_Ex1\ConsoleEx1\bin\Debug\net8.0\ConsoleEx1.runtimeconfig.json
+C:\Users\alunolab\Desktop\RO_05_Ex1\ConsoleEx1\bin\Debug\net8.0\ConsoleEx1.dll
+C:\Users\alunolab\Desktop\RO_05_Ex1\ConsoleEx1\bin\Debug\net8.0\ConsoleEx1.pdb
+C:\Users\alunolab\Desktop\RO_05_Ex1\ConsoleEx1\obj\Debug\net8.0\ConsoleEx1.dll
+C:\Users\alunolab\Desktop\RO_05_Ex1\ConsoleEx1\obj\Debug\net8.0\refint\ConsoleEx1.dll
+C:\Users\alunolab\Desktop\RO_05_Ex1\ConsoleEx1\obj\Debug\net8.0\ConsoleEx1.pdb
+C:\Users\alunolab\Desktop\RO_05_Ex1\ConsoleEx1\obj\Debug\net8.0\ConsoleEx1.genruntimeconfig.cache
+C:\Users\alunolab\Desktop\RO_05_Ex1\ConsoleEx1\obj\Debug\net8.0\ref\ConsoleEx1.dll
