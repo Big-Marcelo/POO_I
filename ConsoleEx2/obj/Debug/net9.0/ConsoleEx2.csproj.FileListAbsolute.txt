@@ -1,0 +1,15 @@
+D:\SI\POO_I\POO_I\RO_05_Ex2\ConsoleEx2\bin\Debug\net9.0\ConsoleEx2.exe
+D:\SI\POO_I\POO_I\RO_05_Ex2\ConsoleEx2\bin\Debug\net9.0\ConsoleEx2.deps.json
+D:\SI\POO_I\POO_I\RO_05_Ex2\ConsoleEx2\bin\Debug\net9.0\ConsoleEx2.runtimeconfig.json
+D:\SI\POO_I\POO_I\RO_05_Ex2\ConsoleEx2\bin\Debug\net9.0\ConsoleEx2.dll
+D:\SI\POO_I\POO_I\RO_05_Ex2\ConsoleEx2\bin\Debug\net9.0\ConsoleEx2.pdb
+D:\SI\POO_I\POO_I\RO_05_Ex2\ConsoleEx2\obj\Debug\net9.0\ConsoleEx2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SI\POO_I\POO_I\RO_05_Ex2\ConsoleEx2\obj\Debug\net9.0\ConsoleEx2.AssemblyInfoInputs.cache
+D:\SI\POO_I\POO_I\RO_05_Ex2\ConsoleEx2\obj\Debug\net9.0\ConsoleEx2.AssemblyInfo.cs
+D:\SI\POO_I\POO_I\RO_05_Ex2\ConsoleEx2\obj\Debug\net9.0\ConsoleEx2.csproj.CoreCompileInputs.cache
+D:\SI\POO_I\POO_I\RO_05_Ex2\ConsoleEx2\obj\Debug\net9.0\ConsoleEx2.sourcelink.json
+D:\SI\POO_I\POO_I\RO_05_Ex2\ConsoleEx2\obj\Debug\net9.0\ConsoleEx2.dll
+D:\SI\POO_I\POO_I\RO_05_Ex2\ConsoleEx2\obj\Debug\net9.0\refint\ConsoleEx2.dll
+D:\SI\POO_I\POO_I\RO_05_Ex2\ConsoleEx2\obj\Debug\net9.0\ConsoleEx2.pdb
+D:\SI\POO_I\POO_I\RO_05_Ex2\ConsoleEx2\obj\Debug\net9.0\ConsoleEx2.genruntimeconfig.cache
+D:\SI\POO_I\POO_I\RO_05_Ex2\ConsoleEx2\obj\Debug\net9.0\ref\ConsoleEx2.dll
